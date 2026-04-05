@@ -14,7 +14,7 @@ En el directorio `notebooks` se encuentra el archivo `.ipynb` en el que se impor
 ##  Instalación de dependencias
 
 ```bash
-pip install notebook
+pip install -r requirements.txt
 ```
 
 ##  Ejecución
